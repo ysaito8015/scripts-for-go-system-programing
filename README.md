@@ -2,6 +2,9 @@
 Go ならわかるシステムプログラミングについての読書コード片
 
 ## 参考情報
+- VSCode
+ - [本体](https://code.visualstudio.com/)
+ - [vscode-go](https://github.com/Microsoft/vscode-go) 機能に何が使われているのか
 - debug
  - [delev](https://github.com/derekparker/delve)
 - vim plugin
